@@ -10,8 +10,8 @@ function HeroSection() {
                     YOUR FEET DESERVE THE BEST AND WE ARE HERE TO HELP YOU WITH OUR SHOES.
                 </p>
                 <div className='flex gap-20 mt-5'>
-                    <button className='bg-red-400 px-9 py-3 border-2 border-black text-black rounded-md py-2 px-4'> Shop Now </button>
-                    <button className='bg-red-400 px-9 py-3 border-2 border-black text-black rounded-md py-2 px-4'> Category </button>
+                    <button className='bg-red-400 px-9 py-3 border-2 border-black text-black rounded-md '> Shop Now </button>
+                    <button className='bg-red-400 px-9 py-3 border-2 border-black text-black rounded-md '> Category </button>
                 </div>
                 <p className='pt-5 text-xl'>Also Avalable On</p>
                 <div className='flex'>
